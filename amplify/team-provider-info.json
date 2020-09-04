@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sveltelogin-dev-85056-authRole",
+            "UnauthRoleArn": "arn:aws:iam::142577996841:role/amplify-sveltelogin-dev-85056-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::142577996841:role/amplify-sveltelogin-dev-85056-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-sveltelogin-dev-85056-deployment",
+            "UnauthRoleName": "amplify-sveltelogin-dev-85056-unauthRole",
+            "StackName": "amplify-sveltelogin-dev-85056",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:142577996841:stack/amplify-sveltelogin-dev-85056/152242f0-ee51-11ea-b56b-0aac3d2f8c20",
+            "AmplifyAppId": "d2wazd1e1gyqc9"
+        }
+    }
+}
